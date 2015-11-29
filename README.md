@@ -1,5 +1,5 @@
 # MusicInformationRedditBot
-A Reddit bot that replies to someone who mentions a musician, with said musicians top playlist result from gogole, and their wikipedia article
+A Reddit bot that replies to someone who mentions a musician, with said musicians top playlist result from gogole, and their wikipedia article. Currently, the bot will only look at comments that contain a mention of the artis for a list of West Coast Rappers (taken from https://en.wikipedia.org/wiki/List_of_West_Coast_hip_hop_artists). This will of course be expanded to other artists in the future 
 
 TODO:
 
