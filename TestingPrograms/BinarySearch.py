@@ -31,7 +31,7 @@
         #print info
 
         if (cLetter == i):
-            print "cunt", i
+            print "test", i
             #Go through the array info and look for the element
             for j in range(0, len(info)):
                 elem = info[j]
